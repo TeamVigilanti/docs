@@ -1,29 +1,33 @@
-# What is MyProduct?
+---
+description: No worries! We're here to explain that!
+---
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
+# What is CrowdControl?
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+CrowdControl is a server management and moderation bot for your Discord servers.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+
+
+Below is a couple of use cases for CrowdControl's services
+
+> A small server with a bunch of friends, looking for a bot to make their Discord server nice and _\*snazzy\*._
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> — CrowdControl can handle that!
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+> A moderately large server wanting to revamp their server and provide powerful moderation and automoderation tools for their moderators.
 >
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> — CrowdControl can provide that also!
+
+> A large server having to deal with constant rule breakers and bad actors. Also has ever changing channels, complex permissions setups and various other tasks they'd prefer automated.
+>
+> — You won't believe it, but CrowdControl can manage all of that too!
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+**Alright, this is the easy part! Simply invite the bot using the link below**
 
 {% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
+**Good to know:** If you'd prefer the bot have no permissions on joining, set the permissions value to 0 in the invite URL!
 {% endhint %}
 
 ### Guides: Jump right in
